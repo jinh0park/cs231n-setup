@@ -307,3 +307,12 @@ is_available()
 ```
 
 설치가 잘 되었다면 `True`를 아니라면 `False`를 반환한다.
+
+---
+
+## References
+
+1. http://cs231n.github.io/
+2. https://cloud.google.com/compute/docs/gpus/add-gpus#install-gpu-driver
+3. https://askubuntu.com/questions/685017/how-to-install-nvidia-smi
+4. https://medium.com/@kn.maragatham09/installing-jupyter-notebook-on-google-cloud-11979e40cd10
